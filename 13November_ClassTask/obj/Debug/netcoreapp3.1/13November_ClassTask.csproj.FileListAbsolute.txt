@@ -1,0 +1,14 @@
+C:\Users\muradjj\source\repos\13November_ClassTask\13November_ClassTask\bin\Debug\netcoreapp3.1\13November_ClassTask.exe
+C:\Users\muradjj\source\repos\13November_ClassTask\13November_ClassTask\bin\Debug\netcoreapp3.1\13November_ClassTask.deps.json
+C:\Users\muradjj\source\repos\13November_ClassTask\13November_ClassTask\bin\Debug\netcoreapp3.1\13November_ClassTask.runtimeconfig.json
+C:\Users\muradjj\source\repos\13November_ClassTask\13November_ClassTask\bin\Debug\netcoreapp3.1\13November_ClassTask.runtimeconfig.dev.json
+C:\Users\muradjj\source\repos\13November_ClassTask\13November_ClassTask\bin\Debug\netcoreapp3.1\13November_ClassTask.dll
+C:\Users\muradjj\source\repos\13November_ClassTask\13November_ClassTask\bin\Debug\netcoreapp3.1\13November_ClassTask.pdb
+C:\Users\muradjj\source\repos\13November_ClassTask\13November_ClassTask\obj\Debug\netcoreapp3.1\13November_ClassTask.csproj.AssemblyReference.cache
+C:\Users\muradjj\source\repos\13November_ClassTask\13November_ClassTask\obj\Debug\netcoreapp3.1\13November_ClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muradjj\source\repos\13November_ClassTask\13November_ClassTask\obj\Debug\netcoreapp3.1\13November_ClassTask.AssemblyInfoInputs.cache
+C:\Users\muradjj\source\repos\13November_ClassTask\13November_ClassTask\obj\Debug\netcoreapp3.1\13November_ClassTask.AssemblyInfo.cs
+C:\Users\muradjj\source\repos\13November_ClassTask\13November_ClassTask\obj\Debug\netcoreapp3.1\13November_ClassTask.csproj.CoreCompileInputs.cache
+C:\Users\muradjj\source\repos\13November_ClassTask\13November_ClassTask\obj\Debug\netcoreapp3.1\13November_ClassTask.dll
+C:\Users\muradjj\source\repos\13November_ClassTask\13November_ClassTask\obj\Debug\netcoreapp3.1\13November_ClassTask.pdb
+C:\Users\muradjj\source\repos\13November_ClassTask\13November_ClassTask\obj\Debug\netcoreapp3.1\13November_ClassTask.genruntimeconfig.cache
